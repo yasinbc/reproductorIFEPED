@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PlayListIF
+comment0.text=Representaci\u00F3n\ de\ una\ lista\ de\ reproducci\u00F3n
+comment1.params=
+comment1.target=ListIF\ getPlayList()
+comment1.text=contenidas\ en\ la\ lista\ de\ reproducci\u00F3n
+comment2.params=lT
+comment2.target=void\ addListOfTunes(ListIF)
+comment2.text=al\ contenido\ existente\ en\ la\ lista\ de\ reproducci\u00F3n
+comment3.params=tuneID
+comment3.target=void\ removeTune(int)
+comment3.text=relativo
+numComments=4

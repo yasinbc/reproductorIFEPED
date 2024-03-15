@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TuneCollectionIF
+comment0.text=Representaci\u00F3n\ del\ repositorio\ de\ canciones
+comment1.params=
+comment1.target=int\ size()
+comment1.text=@return\ \ -devuelve\ un\ entero\ con\ el\ n\u00FAmero\ de\ canciones\ almacenadas
+numComments=2

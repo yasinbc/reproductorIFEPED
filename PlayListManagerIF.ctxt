@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PlayListManagerIF
+comment0.text=Representaci\u00F3n\ del\ gestor\ de\ listas\ de\ reproducci\u00F3n
+comment1.params=playListID
+comment1.target=boolean\ contains(java.lang.String)
+comment1.text=reproducci\u00F3n\ asociada\ al\ identificador\ recibido\ como\ par\u00E1metro
+comment2.params=playListID
+comment2.target=PlayListIF\ getPlayList(java.lang.String)
+comment2.text=como\ par\u00E1metro
+comment3.params=
+comment3.target=ListIF\ getIDs()
+comment3.text=existentes
+comment4.params=playListID
+comment4.target=void\ createPlayList(java.lang.String)
+comment4.text=identificador\ recibido\ como\ par\u00E1metro
+comment5.params=playListID
+comment5.target=void\ removePlayList(java.lang.String)
+comment5.text=recibido\ como\ par\u00E1metro
+numComments=6

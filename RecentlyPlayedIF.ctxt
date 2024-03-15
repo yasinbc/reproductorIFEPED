@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RecentlyPlayedIF
+comment0.text=Representaci\u00F3n\ del\ almac\u00E9n\ de\ las\ \u00FAltimas\ canciones\ reproducidas
+comment1.params=
+comment1.target=ListIF\ getContent()
+comment1.text=reproducidas\ (en\ el\ orden\ inverso\ al\ que\ se\ reprodujeron)
+comment2.params=tuneID
+comment2.target=void\ addTune(int)
+comment2.text=permitido\ indicado\ en\ el\ constructor
+numComments=3

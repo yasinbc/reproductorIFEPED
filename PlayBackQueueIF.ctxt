@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PlayBackQueueIF
+comment0.text=Representaci\u00F3n\ de\ la\ cola\ de\ reproducci\u00F3n
+comment1.params=
+comment1.target=ListIF\ getContent()
+comment1.text=el\ que\ fueron\ originalmente\ introducidos
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment2.text=reproducci\u00F3n\ est\u00E1\ vac\u00EDa\ o\ no
+comment3.params=
+comment3.target=int\ getFirstTune()
+comment3.text=reproducci\u00F3n
+comment4.params=
+comment4.target=void\ extractFirstTune()
+comment4.text=@pos\ \ \ \ \ -elimina\ de\ la\ cola\ de\ reproducci\u00F3n\ el\ primer\ identificador
+comment5.params=lT
+comment5.target=void\ addTunes(ListIF)
+comment5.text=final\ de\ la\ cola\ de\ reproducci\u00F3n
+comment6.params=
+comment6.target=void\ clear()
+comment6.text=@pos\ \ \ \ \ -la\ cola\ de\ reproducci\u00F3n\ queda\ vac\u00EDa,\ sin\ identificadores
+numComments=7

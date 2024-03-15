@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TuneIF
+comment0.text=Representaci\u00F3n\ de\ una\ canci\u00F3n
+comment1.params=q
+comment1.target=boolean\ match(QueryIF)
+comment1.text=-si\ la\ canci\u00F3n\ incumple\ alg\u00FAn\ criterio,\ devolver\u00E1\ falso
+numComments=2

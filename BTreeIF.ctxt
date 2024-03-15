@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=BTreeIF
+comment0.text=\ Representa\ un\ arbol\ binario\ de\ elementos,\ en\ el\ que\ un\ nodo\t*\r\n\ puede\ tener,\ a\ lo\ sumo,\ dos\ hijos\ (fan-out\ <\=\ 2\ para\ todos\ \ \ *\r\nlos\ nodos).
+comment1.params=
+comment1.target=BTreeIF\ getLeftChild()
+comment1.text=\ Obtiene\ el\ hijo\ izquierdo\ del\ \u00E1rbol\ llamante.\ \ \ \ \ \ \ \ \ \ \ \ *\r\n@return\ el\ hijo\ izquierdo\ del\ \u00E1rbol\ llamante.
+comment2.params=
+comment2.target=BTreeIF\ getRightChild()
+comment2.text=\ Obtiene\ el\ hijo\ derecho\ del\ \u00E1rbol\ llamante.\ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n@return\ el\ hijo\ derecho\ del\ \u00E1rbol\ llamante
+comment3.params=e
+comment3.target=void\ setRoot(java.lang.Object)
+comment3.text=\ Modifica\ la\ ra\u00EDz\ del\ \u00E1rbol.\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ @param\ el\ elemento\ que\ se\ quiere\ poner\ como\ ra\u00EDz\ del\ \ \ \ \ *\r\n\u00E1rbol.
+comment4.params=child
+comment4.target=void\ setLeftChild(BTreeIF)
+comment4.text=\ Pone\ el\ \u00E1rbol\ par\u00E1metro\ como\ hijo\ izquierdo\ del\ \u00E1rbol\ \ \ \ *\r\n\ llamante.\ Si\ ya\ hab\u00EDa\ hijo\ izquierdo,\ el\ antiguo\ dejar\u00E1\ \ *\r\n\ de\ ser\ accesible\ (se\ pierde).\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ @Pre\:\ \!isEmpty()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ @param\ child\ el\ \u00E1rbol\ que\ se\ debe\ poner\ como\ hijo\ \ \ \ \ \ \ \ *\r\nizquierdo.
+comment5.params=child
+comment5.target=void\ setRightChild(BTreeIF)
+comment5.text=\ Pone\ el\ \u00E1rbol\ par\u00E1metro\ como\ hijo\ derecho\ del\ \u00E1rbol\ \ \ \ \ \ *\r\n\ llamante.\ Si\ ya\ hab\u00EDa\ hijo\ izquierdo,\ el\ antiguo\ dejar\u00E1\ \ *\r\n\ de\ ser\ accesible\ (se\ pierde).\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ @Pre\:\ \!isEmpty()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\r\n\ @param\ child\ el\ \u00E1rbol\ que\ se\ debe\ poner\ como\ hijo\ \ \ \ \ \ \ \ *\r\nderecho.
+comment6.params=
+comment6.target=void\ removeLeftChild()
+comment6.text=Elimina\ el\ hijo\ izquierdo\ del\ \u00E1rbol.
+comment7.params=
+comment7.target=void\ removeRightChild()
+comment7.text=Elimina\ el\ hijo\ derecho\ del\ \u00E1rbol.
+numComments=8
